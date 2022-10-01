@@ -1,2 +1,2 @@
-Morning! 👋
-This is practice assignment 3 for the course "Blockchain and Decentralized Technologies". 
+# SHA2 and SHA3
+Implementation of secure hashing algorithms 2 and 3 versions accordingly.
